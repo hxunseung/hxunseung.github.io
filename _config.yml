@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이현승"
-  avatar           : hxunseung.github.io/assets/images/깃헙인장.jpg
+  avatar           : "hxunseung.github.io/assets/images/깃헙인장.jpg"
   bio              : "너머의"
   location         : "대한민국"
   email            : "sonic.lhs@gmail.com"
